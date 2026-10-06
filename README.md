@@ -49,7 +49,7 @@ I mainly work with **ROS 2, C++, Python, MATLAB/Simulink, Gazebo, RViz, and Soli
 
 ### 🗺️ Robot Path Planning with Costmap
 
-**ROS 2 · C++ · A* · Dijkstra · Costmaps · TF2 · RViz**
+**ROS 2 · A* · Dijkstra · Costmaps · TF2 · RViz**
 
 Implemented global path-planning algorithms within a ROS 2 costmap-based navigation environment.
 
