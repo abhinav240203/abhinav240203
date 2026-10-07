@@ -192,7 +192,7 @@ Robotic Systems
 <img src="https://img.shields.io/badge/LinkedIn-Abhinav_Rangarajan-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:abhinav.rangarajan@rwth.aachen.de">
+<a href="mailto:abhinav.rangarajan@rwth-aachen.de">
 <img src="https://img.shields.io/badge/Email-RWTH_Aachen-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
